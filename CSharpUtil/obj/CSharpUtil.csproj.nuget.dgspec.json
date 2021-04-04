@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kosuke Futamata\\source\\Utils\\CSharpUtil\\CSharpUtil\\CSharpUtil.csproj": {}
+    "C:\\Users\\Kosuke Futamata\\source\\utils\\csharputil\\CSharpUtil\\CSharpUtil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kosuke Futamata\\source\\Utils\\CSharpUtil\\CSharpUtil\\CSharpUtil.csproj": {
+    "C:\\Users\\Kosuke Futamata\\source\\utils\\csharputil\\CSharpUtil\\CSharpUtil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kosuke Futamata\\source\\Utils\\CSharpUtil\\CSharpUtil\\CSharpUtil.csproj",
+        "projectUniqueName": "C:\\Users\\Kosuke Futamata\\source\\utils\\csharputil\\CSharpUtil\\CSharpUtil.csproj",
         "projectName": "CSharpUtil",
-        "projectPath": "C:\\Users\\Kosuke Futamata\\source\\Utils\\CSharpUtil\\CSharpUtil\\CSharpUtil.csproj",
+        "projectPath": "C:\\Users\\Kosuke Futamata\\source\\utils\\csharputil\\CSharpUtil\\CSharpUtil.csproj",
         "packagesPath": "C:\\Users\\Kosuke Futamata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kosuke Futamata\\source\\Utils\\CSharpUtil\\CSharpUtil\\obj\\",
+        "outputPath": "C:\\Users\\Kosuke Futamata\\source\\utils\\csharputil\\CSharpUtil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
